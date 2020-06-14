@@ -1,5 +1,5 @@
 from typing import List
-
+#123
 class solution:
 
     def twoSum2(self, nums: List[int], target: int):# -> List[int]:
